@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 <a href="https://app.daily.dev/mariebriand"><img src="https://api.daily.dev/devcards/b718d3ada6d04a0b8c9e9913959144f3.png?r=mg9" width="400" alt="Marie Briand's Dev Card"/></a>
 -->
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/mariebriand/devcard.svg" width="400" alt="Marie Briand's Dev Card"/></a>
+<a href="https://app.daily.dev/mariebriand"><img src="https://github.com/mariebriand/mariebriand/main/devcard.svg" width="400" alt="Marie Briand's Dev Card"/></a>
 
